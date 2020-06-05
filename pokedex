@@ -1,0 +1,9 @@
+//I caught these Pokemon in the forrest today.
+//I will be describing the Pokemon with Pokemon types. In the code to be logged into the console.
+
+var pokemon = ['Raichu', 'Squirtle', 'Jigglypuff']
+var pokemonTypes = ['Electric', 'Water', 'Normal', 'Fairy']
+
+console.log(pokemon[0] + ': ' + pokemonTypes[0]);
+console.log(pokemon[1] + ': ' + pokemonTypes[1]);
+console.log(pokemon[2] + ': ' + pokemonTypes[2] + ', ' + pokemonTypes[3]);
